@@ -8,4 +8,4 @@ https://www.squibler.io/dangerous-writing-prompt-app
 
  Build a desktop app that has similar functionality. The design is up to you, but it should allow a user to type and if they stop for more than 5 seconds, it should delete everything they've written so far.
  
-![alt text](https://github.com/distareza/PythonGUI_DisapperingTextWritingApp/raw/master/Screenshot20220914101647.png)
+![alt text](https://github.com/distareza/PythonGUI_DisapperingTextWritingApp/raw/master/Screenshot20221012073727.png)
